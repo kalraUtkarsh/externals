@@ -1,0 +1,8 @@
+place to download: https://www.ebi.ac.uk/thornton-srv/software/LigPlus/download2.html
+
+installation is given there
+
+test:
+
+hbadd 8VAJ.pdb empty_file.txt -wkdir "dir path where the pdb file is stores"
+

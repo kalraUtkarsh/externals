@@ -1,0 +1,11 @@
+as I know you have already downloaded and installed hbplus
+
+test:
+
+hbplus -D 4.0 -a 90 8VAJ.pdb
+
+the output file should look like: 8VAJ.hb2
+
+
+postnote: the right place to download hbplus is: https://www.ebi.ac.uk/thornton-srv/software/HBPLUS/download.html
+

@@ -1,0 +1,14 @@
+get the software from the github:
+https://github.com/rlabduke/reduce
+
+the installation steps are given the github readme
+
+Test:
+
+run the following command
+
+reduce -FLIP input_file.pdb > output_file.pdb
+
+the example 
+input file is: 8VAJ.pdb
+output file should look like: 8VAJ_h.pdb

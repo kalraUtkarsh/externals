@@ -1,0 +1,20 @@
+you will find the the software file in the folder named "software"
+
+to install:
+
+you need to have a fortran and gcc compiler installed
+
+to install run:
+
+csh install.scr
+
+once you install successfully, it should produce 2 extra file:
+
+1. accall
+2. naccess
+
+to test:
+
+naccess 8VAJ.pdb
+
+outputfile should look like: 8VAJ.rsa

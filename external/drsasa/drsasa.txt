@@ -1,0 +1,5 @@
+the github link to download is:
+https://github.com/nioroso-x3/dr_sasa_n
+
+
+run: drsasa -m 0 -i 8VAJ.pdb -o 8VAJ.asa
