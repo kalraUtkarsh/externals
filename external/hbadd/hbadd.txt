@@ -6,3 +6,5 @@ test:
 
 hbadd 8VAJ.pdb empty_file.txt -wkdir "dir path where the pdb file is stores"
 
+ligplus is the software which had hbadd
+
